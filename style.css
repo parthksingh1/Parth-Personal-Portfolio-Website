@@ -174,7 +174,7 @@ section .title::after {
 /* home section styling */
 .home {
   display: flex;
-  background: url("images/slide3.webp") no-repeat center;
+  background: url("slide3.webp") no-repeat center;
   height: 100vh;
   color: white;
   min-height: 500px;
