@@ -381,10 +381,10 @@ section .title::after {
 .skills-content .right .js::before {
   width: 20%;
 }
-.skills-content .right .php::before {
+.skills-content .right .c++::before {
   width: 75%;
 }
-.skills-content .right .mysql::before {
+.skills-content .right .c::before {
   width: 60%;
 }
 
