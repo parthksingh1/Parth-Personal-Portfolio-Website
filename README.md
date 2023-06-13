@@ -1,6 +1,6 @@
 # Personal Portfolio Website  💻 🎉
 
-Welcome to my personal portfolio website! This website showcases my skills, projects, and achievements as a [Your Profession/Title]. It provides an overview of my work experience, education, and the technologies I specialize in. Feel free to explore and learn more about me.
+Welcome to my personal portfolio website! This website showcases my skills, projects, and achievements as a Frontend Web Developer and a Competitive Programmer. It provides an overview of my work experience, education, and the technologies I specialize in. Feel free to explore and learn more about me.
 
 ##  🌐 Live Demo
 
