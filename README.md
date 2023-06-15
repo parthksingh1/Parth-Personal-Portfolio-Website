@@ -21,7 +21,7 @@ You can access the live version of my portfolio website at [Parth Portfolio Webs
 
 ## 📷 Screenshots
 
-![Screenshot 1](/screenshots/Screenshot (35).png)
+![Screenshot 1](
 ![Screenshot 2](/screenshots/screenshot2.png)
 ![Screenshot 3](/screenshots/screenshot3.png)
 
